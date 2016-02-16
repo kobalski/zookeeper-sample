@@ -36,7 +36,7 @@ To package project  :
 
 ### Deployment
 
-After build is completed go to target folder and upload `integration-1.0-SNAPSHOT` to your cloud instance.
+After build is completed go to target folder and upload `integration-1.0-SNAPSHOT.jar` to your cloud instance.
 
 ### Running
 
